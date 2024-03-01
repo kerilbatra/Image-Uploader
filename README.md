@@ -12,6 +12,5 @@ A simple image uploader website built with Python Django and HTML Bootstrap.
 
 - git clone https://github.com/kerilbatra/image-uploader.git
 
-## Contributing
 
-Contributions are welcome! 
+- Contributions are welcome! 

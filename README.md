@@ -14,10 +14,4 @@ A simple image uploader website built with Python Django and HTML Bootstrap.
 
 ## Contributing
 
-Contributions are welcome! Please follow these steps:
-
--Fork the repository
--Create a new branch (git checkout -b feature/your-feature)
--Commit your changes (git commit -m 'Add some feature')
--Push to the branch (git push origin feature/your-feature)
--Open a pull request
+Contributions are welcome! 
